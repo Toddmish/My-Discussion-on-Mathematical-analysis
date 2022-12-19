@@ -10,6 +10,8 @@ Muszyński, J., 2000. Analiza matematyczna. Cz. I ; Wydawnictwo: WPW
 
 Muszyński, J., 2000. Analiza matematyczna. Cz. II ; Wydawnictwo: WPW 
 
+Trajdos, T., Matematyka. Część III ; Wydawnictwo WNT
+
 Wolfram MathWorld
 
 Math Stack Exchange
